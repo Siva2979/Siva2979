@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B6D0E2&height=160&section=header&text=Venkata%20Siva%20Kalyan%20Bavireddy&fontSize=36&fontColor=2C3E50&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=16&descColor=4A6274" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Venkata%20Siva%20Kalyan%20Bavireddy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=16&descColor=E0AAFF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1200&color=4A6274&center=true&vCenter=true&width=700&height=50&lines=Turning+Data+into+Decisions+📊;Building+Intelligent+Systems+🤖;Open+to+Internships+%26+Collaborations+🤝" alt="Typing Banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=Turning+Data+into+Decisions+📊;Building+Intelligent+Systems+🤖;Open+to+Internships+%26+Collaborations+🤝" alt="Typing Banner" />
 
 <br>
 
 <a href="https://github.com/Siva2979">
-  <img src="https://komarev.com/ghpvc/?username=Siva2979&label=Profile+Views&color=B6D0E2&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Siva2979&label=Profile+Views&color=7C3AED&style=flat-square" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Siva2979?label=Followers&style=flat-square&color=B6D0E2" />
+<img src="https://img.shields.io/github/followers/Siva2979?label=Followers&style=flat-square&color=7C3AED" />
 
 </div>
 
@@ -93,12 +93,12 @@ class DataEngineer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siva2979&show_icons=true&theme=default&hide_border=true&title_color=4A6274&text_color=555555&icon_color=B6D0E2&hide_rank=true&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2979&layout=compact&theme=default&hide_border=true&title_color=4A6274&text_color=555555" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Siva2979&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&hide_title=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2979&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva2979&theme=github-compact&hide_border=true&color=4A6274&line=B6D0E2&point=4A6274" alt="Contribution Graph" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siva2979&theme=tokyo-night&hide_border=true&color=A855F7&line=7C3AED&point=F472B6" alt="Contribution Graph" width="96%" />
 
 </div>
 
@@ -107,7 +107,7 @@ class DataEngineer:
 ### 🏅 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siva2979&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Siva2979&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -115,7 +115,7 @@ class DataEngineer:
 ### 💡 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
 ---
@@ -125,11 +125,11 @@ class DataEngineer:
 <div align="center">
 
 <a href="https://drive.google.com/file/d/1e7AkB9MuZhofqRXrrEoA3_a71R977CZ9/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Resume-4A6274?style=flat-square&logo=googledrive&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/View%20Resume-7C3AED?style=flat-square&logo=googledrive&logoColor=white" height="28" />
 </a>
 &nbsp;&nbsp;
 <a href="https://drive.google.com/uc?export=download&id=1e7AkB9MuZhofqRXrrEoA3_a71R977CZ9" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20Resume-B6D0E2?style=flat-square&logo=googledrive&logoColor=2C3E50" height="28" />
+  <img src="https://img.shields.io/badge/Download%20Resume-F472B6?style=flat-square&logo=googledrive&logoColor=white" height="28" />
 </a>
 
 <br><br>
@@ -164,4 +164,4 @@ class DataEngineer:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B6D0E2&height=100&section=footer&fontColor=2C3E50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontColor=ffffff" width="100%"/>
