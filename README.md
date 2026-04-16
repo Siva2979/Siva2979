@@ -61,14 +61,14 @@ print(me.current_focus())   # Output: Something awesome 🚀
 #### ☁️ Cloud, DevOps & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,aws,terraform&perline=6" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,git&perline=6" />
   </a>
 </p>
 
 #### 🗄️ Databases & BI
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -95,7 +95,7 @@ print(me.current_focus())   # Output: Something awesome 🚀
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siva2979&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siva2979&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&icon_color=00D4FF&hide_rank=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2979&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" width="48%" />
 </div>
 
@@ -113,7 +113,13 @@ print(me.current_focus())   # Output: Something awesome 🚀
 
 ---
 
+### 🏅 Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siva2979&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+</div>
+
+---
 
 ### 💡 Dev Quote of the Day
 
