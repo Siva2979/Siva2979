@@ -46,8 +46,10 @@ print(me.current_focus())   # Output: Something awesome 🚀
 #### 💡 Languages & Data Science
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,cpp,matlab&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java&perline=6" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 #### 🤖 ML / AI Frameworks
@@ -60,7 +62,7 @@ print(me.current_focus())   # Output: Something awesome 🚀
 #### ☁️ Cloud, DevOps & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,linux,bash,git,github,grafana&perline=6" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,git&perline=6" />
   </a>
 </p>
 
@@ -125,6 +127,24 @@ print(me.current_focus())   # Output: Something awesome 🚀
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
+
+---
+
+### 📄 My Resume
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1e7AkB9MuZhofqRXrrEoA3_a71R977CZ9/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-00D4FF?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume" />
+  </a>
+  &nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1e7AkB9MuZhofqRXrrEoA3_a71R977CZ9" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Resume" />
+  </a>
+</div>
+
+<br>
+
+> 💼 *Open to Internships, Full-time Roles & Research Collaborations — feel free to reach out!*
 
 ---
 
