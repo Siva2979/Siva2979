@@ -118,14 +118,8 @@ print(me.current_focus())   # Output: Something awesome 🚀
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siva2979&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EFF&text_color=C9D1D9&icon_color=00D4FF&hide_rank=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siva2979&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EFF&text_color=C9D1D9&icon_color=00D4FF&hide_rank=true&hide_title=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva2979&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EFF&text_color=C9D1D9" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siva2979&theme=radical&hide_border=true&background=0D1117&ring=FF6EFF&fire=FF6B6B&currStreakNum=00D4FF&sideLabels=FF6EFF" alt="GitHub Streak" />
 </div>
 
 <br>
