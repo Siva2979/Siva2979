@@ -1,4 +1,3 @@
-#Venkata Siva Kalyan
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=130&lines=Hey!+I'm+Venkata+Siva+Kalyan+%F0%9F%91%8B;Data+Science+%7C+ML+%7C+Cloud+%7C+DevOps;Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%93%8A" alt="Venkata Siva Kalyan Banner" />
 </div>
@@ -62,14 +61,14 @@ print(me.current_focus())   # Output: Something awesome 🚀
 #### ☁️ Cloud, DevOps & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,aws,terraform,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,aws,terraform&perline=6" />
   </a>
 </p>
 
 #### 🗄️ Databases & BI
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mysql,&perline=6" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -114,13 +113,7 @@ print(me.current_focus())   # Output: Something awesome 🚀
 
 ---
 
-### 🏅 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siva2979&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
-</div>
-
----
 
 ### 💡 Dev Quote of the Day
 
