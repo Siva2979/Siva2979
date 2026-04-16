@@ -1,4 +1,4 @@
-# Siva2979profile
+# Siva Kalyan
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=130&lines=Hey!+I'm+Venkata+Siva+Kalyan+%F0%9F%91%8B;Data+Science+%7C+ML+%7C+Cloud+%7C+DevOps;Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Data+Into+Decisions+%F0%9F%93%8A" alt="Venkata Siva Kalyan Banner" />
 </div>
@@ -131,13 +131,13 @@ print(me.current_focus())   # Output: Something awesome 🚀
 ### 📫 Let's Connect & Build Together!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/venkata-siva-kalyan-bavireddy/">
+  <a href="https://www.linkedin.com/in/sivakalyan2979/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Siva2979">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="kalyannaidub348@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/">
