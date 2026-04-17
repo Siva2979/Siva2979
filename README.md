@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Venkata%20Siva%20Kalyan%20Bavireddy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=16&descColor=E0AAFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:F472B6&height=160&section=header&text=Venkata%20Siva%20Kalyan%20Bavireddy&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=16&descColor=F9D7FF" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=Turning+Data+into+Decisions+📊;Building+Intelligent+Systems+🤖;Open+to+Internships+%26+Collaborations+🤝" alt="Typing Banner" />
+<img src="https://media.giphy.com/media/co5GSGnVBDlPi/giphy.gif" width="80" height="80" align="left" alt="Squirrel" />
+&nbsp;&nbsp;&nbsp;
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=560&height=50&lines=Turning+Data+into+Decisions+📊;Building+Intelligent+Systems+🤖;Open+to+Internships+%26+Collaborations+🤝" alt="Typing Banner" />
+
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" width="80" height="80" align="right" alt="Bird" />
+
+<br><br>
 
 <a href="https://github.com/Siva2979">
   <img src="https://komarev.com/ghpvc/?username=Siva2979&label=Profile+Views&color=7C3AED&style=flat-square" />
@@ -15,6 +21,7 @@
 <img src="https://img.shields.io/github/followers/Siva2979?label=Followers&style=flat-square&color=7C3AED" />
 
 </div>
+
 
 ---
 
