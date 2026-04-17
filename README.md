@@ -17,18 +17,18 @@
 
 ---
 
-## 🤠 I'M SIVA!
+## 🤠 I'M SIVA KALYAN!
 
 <img align="right" src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="220" alt="Owl celebrating"/>
 
-*Data Scientist (ML Engineer / Cloud & DevOps)*
+*Data Analyst | Aspiring Data Scientist*
 
-I am a **Data Scientist and ML Engineer** with a strong passion for building intelligent systems, end-to-end ML pipelines, cloud infrastructure, and data-driven decision making.
+I am a **Data Analyst** mastered in **SQL, Power BI, Tableau, and EDA** with hands-on experience turning raw data into meaningful insights. Aspiring **Data Scientist** passionate about machine learning, predictive modelling, and data-driven decision making.
 
 - ✨ Lifelong learner — every dataset tells a story
-- 🌱 Currently mastering **Kubernetes, MLOps, Deep Learning & Terraform**
+- 🌱 Currently mastering **Data Structures & Algorithms (DSA)**
 - 🤝 Open to **Internships · Open Source · Research Collaborations**
-- 🔭 Building: **AI Crop Price Prediction 🌾 · Bank Fraud Detection 🏦 · Weather Dashboards ☁️**
+- 🔭 Building: **Telecom Customer Churn 📞 · Food Delivery Prediction 🍕 · IMDB Movie Rating Analysis 🎬 · Car Sales Dashboard 📊**
 - 💼 Visit my [Resume](https://drive.google.com/file/d/1e7AkB9MuZhofqRXrrEoA3_a71R977CZ9/view?usp=sharing) for more details about me
 - ❤️ Contributing to Open Source & Data Science communities
 - ☕ I debug with coffee and ship with more coffee
