@@ -104,15 +104,7 @@ class DataEngineer:
 
 </div>
 
----
 
-### 🏅 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siva2979&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-</div>
-
----
 
 ### 💡 Quote of the Day
 
